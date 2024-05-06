@@ -1,4 +1,5 @@
 # Peru Sea Surface Temperature and Anomaly Dashboard
+Author: Eric Torres
 
 ## Overview
 
